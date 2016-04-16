@@ -8,7 +8,7 @@ public class Fibonacci {
 	public static void main(String[] args) {
 		System.out.println(new Fibonacci().generateFebb(10));
 	}
-
+//sss
 	//0 1 1 2 3
 	public List<Integer>  generateFebb(int num) {
 		List<Integer> arr = new ArrayList<Integer>();
